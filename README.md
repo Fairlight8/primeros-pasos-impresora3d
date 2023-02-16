@@ -10,7 +10,7 @@
 
 ## Pasos de calibración
  1. **[Nivelar la cama](nivelar-cama.md)**: Si tu impresión se despega antes de terminar, esta es la causa. Es uno de los pasos más críticos.
- 2. To be continued
+ 2. **[Calibración de los pasos del extrusor](calibracion-pasos-extrusor.md)**: Para que tu impresora extruya la cantidad perfecta de filamento, ni más ni menos.
 
 ## Enlaces
 
